@@ -14,3 +14,10 @@ git push -u origin main
 
 
 # connect your github account to your vs code....
+
+
+
+# Everytime your write some code
+- git add .
+- git commit -m "message"
+- git push -u origin main
