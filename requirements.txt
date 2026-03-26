@@ -7,4 +7,7 @@ pymango
 certifi
 pymongo[srv]==3.6
 scikit-learn
+pyaml
+dill
+yaml
 # -e .         # -e . => refering to setup.py in the current directory, which is used to install the package in editable mode. This allows you to make changes to the code and have those changes reflected without needing to reinstall the package.
