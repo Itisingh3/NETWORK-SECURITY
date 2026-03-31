@@ -27,3 +27,14 @@ git push -u origin main
 # mongodb site
 - https://cloud.mongodb.com/v2/69bff9ee525475092d35b688#/overview
 - 
+
+
+
+# MLFLOW 
+- mlflow ui
+
+# dagshub
+
+
+
+# uvicorn app:app --reload

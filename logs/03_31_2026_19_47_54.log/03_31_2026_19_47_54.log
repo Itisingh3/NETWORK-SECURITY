@@ -1,0 +1,29 @@
+[ 2026-03-31 19:47:55,301 ] 161 numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+[ 2026-03-31 19:48:06,727 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-03-31 19:48:06,736 ] 107 dagshub - INFO - Accessing as Itisingh3
+[ 2026-03-31 19:48:08,383 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Itisingh3/NETWORK-SECURITY "HTTP/1.1 200 OK"
+[ 2026-03-31 19:48:14,078 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-03-31 19:48:14,081 ] 107 dagshub - INFO - Initialized MLflow to track repo "Itisingh3/NETWORK-SECURITY"
+[ 2026-03-31 19:48:14,087 ] 107 dagshub - INFO - Repository Itisingh3/NETWORK-SECURITY initialized!
+[ 2026-03-31 19:48:37,458 ] 36 root - INFO - Start data Ingestion
+[ 2026-03-31 19:48:43,895 ] 62 root - INFO - Performed train test split on the dataframe
+[ 2026-03-31 19:48:43,895 ] 64 root - INFO - Exited split_data_as_train_test method of Data_Ingestion class
+[ 2026-03-31 19:48:43,897 ] 72 root - INFO - Exporting train and test file path.
+[ 2026-03-31 19:48:44,005 ] 81 root - INFO - Exported train and test file path.
+[ 2026-03-31 19:48:44,006 ] 39 root - INFO - Data Ingestion completed and artifact: DataIngestionArtifact(trained_file_path='Artifacts\\03_31_2026_19_47_55\\data_ingestion\\ingested\\train.csv', test_file_path='Artifacts\\03_31_2026_19_47_55\\data_ingestion\\ingested\\test.csv')
+[ 2026-03-31 19:48:44,044 ] 48 root - INFO - Initiate the data Validation
+[ 2026-03-31 19:48:44,155 ] 32 root - INFO - Required number of columns:2
+[ 2026-03-31 19:48:44,155 ] 33 root - INFO - Data frame has columns:31
+[ 2026-03-31 19:48:44,155 ] 32 root - INFO - Required number of columns:2
+[ 2026-03-31 19:48:44,155 ] 33 root - INFO - Data frame has columns:31
+[ 2026-03-31 19:48:50,003 ] 36 root - INFO - Start data Ingestion
+[ 2026-03-31 19:48:57,789 ] 62 root - INFO - Performed train test split on the dataframe
+[ 2026-03-31 19:48:57,789 ] 64 root - INFO - Exited split_data_as_train_test method of Data_Ingestion class
+[ 2026-03-31 19:48:57,790 ] 72 root - INFO - Exporting train and test file path.
+[ 2026-03-31 19:48:57,876 ] 81 root - INFO - Exported train and test file path.
+[ 2026-03-31 19:48:57,877 ] 39 root - INFO - Data Ingestion completed and artifact: DataIngestionArtifact(trained_file_path='Artifacts\\03_31_2026_19_47_55\\data_ingestion\\ingested\\train.csv', test_file_path='Artifacts\\03_31_2026_19_47_55\\data_ingestion\\ingested\\test.csv')
+[ 2026-03-31 19:48:57,885 ] 48 root - INFO - Initiate the data Validation
+[ 2026-03-31 19:48:57,951 ] 32 root - INFO - Required number of columns:2
+[ 2026-03-31 19:48:57,951 ] 33 root - INFO - Data frame has columns:31
+[ 2026-03-31 19:48:57,951 ] 32 root - INFO - Required number of columns:2
+[ 2026-03-31 19:48:57,951 ] 33 root - INFO - Data frame has columns:31
